@@ -1,2 +1,2 @@
 # lead-page
-A automation software by WANROI LTD
+A automation software by C Code LTD
